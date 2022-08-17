@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d48345b-70a1-431f-9a97-eee0e7646718" name="Changes" comment="" />
+    <list default="true" id="0d48345b-70a1-431f-9a97-eee0e7646718" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/AverageElementOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/CompareTwoArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/CountAllWordsString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/CountNegativePositiveZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/DuplicateArrayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/DuplicateCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/DuplicateNumbersArrayArrayListSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/IncreaseSizeOfArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/SmallestNumberAmongThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/SumInputByUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/SwapArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preparation/integer/UserInputAndReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -29,25 +50,56 @@
     </option>
   </component>
   <component name="ProjectId" id="2Ck8SsV2WMv2mJ0rdpFAX3tZlz2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dzmitryrazhkou/Documents/Automation/Java_InterviewQuestions&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/dzmitryrazhkou/Documents/Automation/Java_InterviewQuestions",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="preparation.integer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ascending_Descending">
-    <configuration name="Ascending_Descending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preparation.integer.Ascending_Descending" />
+  <component name="RunManager" selected="Application.DuplicateNumbersArrayArrayListSet">
+    <configuration name="App_Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_java_questions.Exceptions_Static.App_Exceptions" />
+      <module name="Java_InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise_java_questions.Exceptions_Static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App_zzzzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_java_questions.Exceptions_Static.App_zzzzz" />
+      <module name="Java_InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise_java_questions.Exceptions_Static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateNumbersArrayArrayListSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preparation.integer.DuplicateNumbersArrayArrayListSet" />
       <module name="Java_InterviewQuestions" />
       <extension name="coverage">
         <pattern>
@@ -59,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommonElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preparation.integer.CommonElementArray" />
+    <configuration name="Vowel_Consonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_java_questions.character.Vowel_Consonant" />
       <module name="Java_InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="preparation.integer.*" />
+          <option name="PATTERN" value="practise_java_questions.character.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,34 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preparation.integer.EvenOdd" />
-      <module name="Java_InterviewQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="preparation.integer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_DuplicatesElementsArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practise_java_questions.arrays._DuplicatesElementsArray" />
-      <module name="Java_InterviewQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practise_java_questions.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="preparation.integer.SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preparation.integer.SecondLargest" />
+    <configuration name="preparation.integer.DuplicateCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preparation.integer.DuplicateCharacter" />
       <module name="Java_InterviewQuestions" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ascending_Descending" />
-        <item itemvalue="Application.EvenOdd" />
-        <item itemvalue="Application.preparation.integer.SecondLargest" />
-        <item itemvalue="Application._DuplicatesElementsArray" />
-        <item itemvalue="Application.preparation.integer.CommonElementArray" />
+        <item itemvalue="Application.DuplicateNumbersArrayArrayListSet" />
+        <item itemvalue="Application.App_Exceptions" />
+        <item itemvalue="Application.App_zzzzz" />
+        <item itemvalue="Application.Vowel_Consonant" />
+        <item itemvalue="Application.preparation.integer.DuplicateCharacter" />
       </list>
     </recent_temporary>
   </component>
@@ -131,5 +157,16 @@
       <updated>1659335225058</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
