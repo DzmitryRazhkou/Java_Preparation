@@ -1,13 +1,16 @@
 package practise_java_questions.string;
 
-import java.util.Arrays;
-import java.util.Comparator;
-
 public class LongestWordInString {
     public static void main(String[] args) {
-        String input = "Being a conductor of a big orchestra, it's an extremely demanding job.";
-        String longestWord = Arrays.stream(input.split(" "))
-                .max(Comparator.comparingInt(String::length)).orElse(input).toString();
-        System.out.println("Longest: " +longestWord);
+        String s = "Today is the happiest day of my life by vijayakumar";
+        String[] word = s.split(" ");
+        String max = "";
+        for (int i = 0; i < word.length; i++) {
+            if (word[i].length() >= max.length()) {
+                max = word[i];
+            }
+        }
+        System.out.println(max);
     }
 }
+

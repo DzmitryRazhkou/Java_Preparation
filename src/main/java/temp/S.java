@@ -1,28 +1,23 @@
 package temp;
 
 
-import java.util.*;
+import java.util.HashSet;
+import java.util.Set;
 
 public class S {
     public static void main(String[] args) {
-        String f = "NfkPLo";
+        Integer[] arr = {1, 7, -5, 25, 0, 17, 35, 56, 88, 14, 5, 5, 9, 12, 7};
+        Set<Integer> set = new HashSet<>();
 
-        int count = 0;
-        for (int i = 0; i < f.length(); i++) {
-            if (f.charAt(i) >= 'A' && f.charAt(i) <= 'Z'){
-                count++;
+        for (Integer s: arr){
+                if (set.add(s) == false){
+                    System.out.println(s);
+                }
             }
         }
-        System.out.println(count);
-
-        int count2 = 0;
-        for (int i = 0; i < f.length(); i++) {
-            if (Character.isUpperCase(f.charAt(i))){
-                count2++;
-            }
-        }
-        System.out.println(count2);
-
     }
-}
+
+
+
+
 

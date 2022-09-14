@@ -7,8 +7,8 @@ public class _PowerNumber {
 
         long res = 1;
         while (exponent != 0) {
-            res*=num_base;
-            --exponent;
+            res = res * num_base;
+            exponent--;
         }
 
         System.out.println(res);

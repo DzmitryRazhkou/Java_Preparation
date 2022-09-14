@@ -6,7 +6,7 @@ public class _Fibonacci_Series {
 
         int t1 = 0;
         int t2 = 1;
-        int num = 12;
+        int num = 5;
 
         for (int i = 1; i <= num; i++) {
             System.out.println(t1);

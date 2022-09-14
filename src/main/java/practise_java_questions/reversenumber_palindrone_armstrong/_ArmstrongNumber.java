@@ -9,7 +9,7 @@ public class _ArmstrongNumber {
 //    3*3*3 = 27
 //    1+125+27 = 153
 
-        isArmstrong(123);
+        isArmstrong(113);
 
     }
 
@@ -23,7 +23,7 @@ public class _ArmstrongNumber {
         while (num > 0) {
             r = num%10;
             num = num/10;
-            cube = cube*(r*r*r);
+            cube = cube+(r*r*r);
         }
 
         if (t == cube) {

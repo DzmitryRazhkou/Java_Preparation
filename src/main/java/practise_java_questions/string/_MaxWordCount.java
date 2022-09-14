@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class _MaxWordCount {
 
-    static String path = "/Users/dzmitryrazhkou/Desktop/demo.txt";
+    static String path = "/Users/dzmitryrazhkou/Desktop/lyrics.txt";
 
     public static void main(String[] args) throws IOException {
 

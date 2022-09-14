@@ -8,7 +8,7 @@ public class _Prime_Interval {
         while (low < high) {
             boolean flag = false;
 
-            for (int i = 2; i < low / 2; i++) {
+            for (int i = 2; i < low; i++) {
                 if (low % i == 0) {
                     flag = true;
                     break;
