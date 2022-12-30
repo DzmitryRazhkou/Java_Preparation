@@ -1,6 +1,6 @@
 package practise_java_questions.integer;
 
-public class _Prime_Interval {
+public class __Prime_Interval {
     public static void main(String[] args) {
         int low = 5;
         int high = 70;

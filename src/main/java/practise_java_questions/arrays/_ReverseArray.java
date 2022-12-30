@@ -1,6 +1,6 @@
 package practise_java_questions.arrays;
 
-public class ReverseArray {
+public class _ReverseArray {
     public static void main(String[] args) {
         int[] arr = {1, 7, -5, 25, 0, 17, 35, 56, 88, 14, 5, 5, 9, 12, 7};
         reverseArray(arr, arr.length);
@@ -12,7 +12,7 @@ public class ReverseArray {
 
         for (int i = 0; i < n; i++) {
             rev_arr[j - 1] = arr[i];
-            j = j -1;
+            j = j - 1;
         }
         for (int k = 0; k < n; k++) {
             System.out.println(rev_arr[k]);

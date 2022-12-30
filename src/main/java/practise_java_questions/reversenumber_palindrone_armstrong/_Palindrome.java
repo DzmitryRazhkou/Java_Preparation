@@ -5,21 +5,27 @@ public class _Palindrome {
 
 //        121 = 121 (>>>> = <<<<<) 1551 = 1551
 
-        int rev = 0;
-        int num = 121;
+        palindrome(1551);
 
-        int act = num;
+    }
+
+    public static void palindrome(int num) {
+        int reverseNumber = 0;
+        int temporary;
+        int reminder;
+
+        temporary = num;
 
         while (num != 0) {
-            int n = num % 10;
-            rev = rev * 10 + n;
+            reminder = num % 10;
             num = num / 10;
+            reverseNumber = reverseNumber * 10 + reminder;
         }
 
-        if (act == rev) {
-            System.out.println(act + " is Palindrome");
+        if (reverseNumber == temporary) {
+            System.out.println(reverseNumber + " is Palindrome");
         } else {
-            System.out.println(act + " isn't Palindrome");
+            System.out.println(reverseNumber + " isn't Palindrome");
         }
 
     }

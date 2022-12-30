@@ -8,5 +8,6 @@ public class TestCar {
 
         MustangE me = new MustangE();
         me.refuel();
+        me.refuel();
     }
 }

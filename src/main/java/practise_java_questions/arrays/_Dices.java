@@ -2,7 +2,7 @@ package practise_java_questions.arrays;
 
 import java.util.Random;
 
-public class Dices {
+public class _Dices {
     public static void main(String[] args) {
         int numbersOFDices = 5;
         int[] dices = throwDices(numbersOFDices);

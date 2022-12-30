@@ -36,6 +36,10 @@ public class _GenerateRandomNumber {
             System.out.println(ThreadLocalRandom.current().nextInt(1,35));
         }
 
+        Random r = new Random();
+        int num = r.nextInt(100000);
+        String form = String.format("%05d", num);
+        System.out.println(form);
 
 
     }

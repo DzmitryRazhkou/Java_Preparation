@@ -24,12 +24,4 @@ public class _PrintOneHundredWithoutUsingLoops {
             printNumber(stNumb, endNum);
         }
     }
-
-    public static void printP(int stN, int end){
-        if (stN <= end){
-
-        }
-    }
-
-
 }

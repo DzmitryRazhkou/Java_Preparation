@@ -1,6 +1,6 @@
 package practise_java_questions.string;
 
-public class LongestWordInString {
+public class _LongestWordInString {
     public static void main(String[] args) {
         String s = "Today is the happiest day of my life by vijayakumar";
         String[] word = s.split(" ");

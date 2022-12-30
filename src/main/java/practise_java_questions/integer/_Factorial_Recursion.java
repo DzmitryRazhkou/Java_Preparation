@@ -1,8 +1,8 @@
 package practise_java_questions.integer;
 
-public class Factorial_Recursion {
+public class _Factorial_Recursion {
     public static void main(String[] args) {
-        int num = 3;
+        int num = 5;
         int multiply = multiplyNum(num);
         System.out.println(multiply);
 

@@ -1,9 +1,9 @@
 package practise_java_questions.integer;
 
-public class Expressed_as_Sum_of_Two_Prime_Numbers {
+public class ___Expressed_as_Sum_of_Two_Prime_Numbers {
     public static void main(String[] args) {
 
-        int num = 20;
+        int num = 15;
         boolean flag = false;
 
         for (int i = 2; i <= num / 2; i++) {

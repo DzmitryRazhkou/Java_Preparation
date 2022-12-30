@@ -1,6 +1,6 @@
 package practise_java_questions.arrays;
 
-public class ReverseWordArray {
+public class _ReverseWordArray {
     public static void main(String[] args) {
         String str = "Hey Gans Selenium";
         String[] arr = str.split(" ");

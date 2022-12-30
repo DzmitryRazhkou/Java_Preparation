@@ -9,24 +9,24 @@ public class _ArmstrongNumber {
 //    3*3*3 = 27
 //    1+125+27 = 153
 
-        isArmstrong(113);
+        isArmstrong(153);
 
     }
 
     public static void isArmstrong(int num) {
         int cube = 0;   // cube
-        int r;   // reminder
-        int t;   // temporally number
+        int reminder;   // reminder
+        int temporary;   // temporally number
 
-        t = num;
+        temporary = num;
 
         while (num > 0) {
-            r = num%10;
-            num = num/10;
-            cube = cube+(r*r*r);
+            reminder = num % 10;
+            num = num / 10;
+            cube = cube + (reminder * reminder * reminder);
         }
 
-        if (t == cube) {
+        if (cube == temporary) {
             System.out.println("This is armstrong number");
         } else {
             System.out.println("Oh No......");

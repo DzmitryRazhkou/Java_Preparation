@@ -4,12 +4,12 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class Count_NumberOfDuplicateWords {
+public class __Count_NumberOfDuplicateWords {
 
 //    Hey java is java is teh best lag java
 
     public static void main(String[] args) {
-        findDuplicate("Hey java is java is teh best lag java");
+        findDuplicate("Java java c++ C++ JS Js");
     }
 
     public static void findDuplicate(String input) {

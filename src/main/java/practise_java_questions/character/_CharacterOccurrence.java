@@ -1,6 +1,6 @@
 package practise_java_questions.character;
 
-public class CharacterOccurrence {
+public class _CharacterOccurrence {
     public static void main(String[] args) {
         getCharacterOccurrence("Leo Weow", 'e');
 

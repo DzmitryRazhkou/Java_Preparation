@@ -14,12 +14,12 @@ public class DataType {
 //        Size: 8 bits = 1 byte
 //        Range: -128 to 127
         byte b = 20;
-        b = 120;
+        b = 127;
 
 //        2. short:
 //        Size: 16 bits = 2 bytes
 //        Range: -32768 to 32767
-        short s = 10;
+        short s = 32767;
         s = 30800;
 //        10 vars = 10 bytes / 20 bytes
 

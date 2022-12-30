@@ -6,7 +6,7 @@ public class _SwapTwoNumbersUsingTemp {
         int second = 200;
 
         System.out.println("1st Value Before Swapping" + " " + first);
-        System.out.println("3nd Value Before Swapping" + " " + second);
+        System.out.println("2nd Value Before Swapping" + " " + second);
         System.out.println("---------");
 
         int temp = first;

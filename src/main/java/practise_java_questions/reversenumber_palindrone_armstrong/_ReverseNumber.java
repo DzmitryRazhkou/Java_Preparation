@@ -2,14 +2,15 @@ package practise_java_questions.reversenumber_palindrone_armstrong;
 
 public class _ReverseNumber {
     public static void main(String[] args) {
-        int num = 457;
-        int rev = 0;
+        int number = 457;
+        int reverseNumber = 0;
+        int reminder;
 
-        while (num != 0) {
-            int n = num % 10;
-            rev = rev * 10 + n;
-            num = num/10;
+        while (number != 0) {
+            reminder = number % 10;
+            number = number / 10;
+            reverseNumber = reverseNumber * 10 + reminder;
         }
-        System.out.println("Reversed: " +rev);
+        System.out.println("Reversed: " + reverseNumber);
     }
 }

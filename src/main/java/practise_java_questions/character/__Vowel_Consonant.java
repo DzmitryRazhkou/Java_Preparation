@@ -1,6 +1,6 @@
 package practise_java_questions.character;
 
-public class Vowel_Consonant {
+public class __Vowel_Consonant {
     public static void main(String[] args) {
 //        a, e, i, o, u
 

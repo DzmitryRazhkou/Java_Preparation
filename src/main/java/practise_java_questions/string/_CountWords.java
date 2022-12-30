@@ -2,7 +2,7 @@ package practise_java_questions.string;
 
 import java.util.HashMap;
 
-public class CountWords {
+public class _CountWords {
     public static void main(String[] args) {
         String str = "This this is is IS Done done by done by Me";
         String lstr = str.toLowerCase();
@@ -18,6 +18,5 @@ public class CountWords {
             }
         }
         System.out.println(map);
-
     }
 }

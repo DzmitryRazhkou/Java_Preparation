@@ -7,12 +7,12 @@ import java.util.regex.Pattern;
 
 public class GeneratePassword {
     public static void main(String[] args) {
-        String res = generatePassword();
+        String res = generatePassword(10);
         System.out.println(res);
     }
-    public static String generatePassword() {
+    public static String generatePassword(int length) {
         String characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789@!#$%&";
-        String password = RandomStringUtils.random(10, characters);
+        String password = RandomStringUtils.random(length, characters);
 
         String regex = "^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@!#$%&])(?=\\S+$).{10,}$";
         Pattern pattern = Pattern.compile(regex);
@@ -21,7 +21,7 @@ public class GeneratePassword {
         if (matcher.matches()) {
             return password;
         } else {
-            return generatePassword(); // recursion
+            return generatePassword(length); // recursion
         }
     }
 }

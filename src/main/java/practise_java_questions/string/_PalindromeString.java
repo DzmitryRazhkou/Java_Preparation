@@ -1,6 +1,6 @@
 package practise_java_questions.string;
 
-public class PalindromeString {
+public class _PalindromeString {
     public static void main(String[] args) {
         String str = "Lol";
         String rev = "";
