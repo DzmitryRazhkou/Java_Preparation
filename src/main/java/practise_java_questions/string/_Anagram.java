@@ -2,7 +2,8 @@ package practise_java_questions.string;
 
 import java.util.Arrays;
 
-public class _Anagram {
+public class
+_Anagram {
     public static void main(String[] args) {
         String word1 = "State";
         String word2 = "Taste";

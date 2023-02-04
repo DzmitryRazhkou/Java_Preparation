@@ -9,7 +9,7 @@ public class _CountChar_Words_LinesInFile {
 //    Count total chars, words and lines in a given file
 //    @param args
 
-    static String path = "/Users/dzmitryrazhkou/Desktop/up.txt";
+        static String path = "/Users/dzmitryrazhkou/Desktop/up.txt";
 
     public static void main(String[] args) throws IOException {
 
@@ -28,7 +28,6 @@ public class _CountChar_Words_LinesInFile {
             wordCount = wordCount + words.length;
 
 //            Line:
-
             for (String w : words) {
                 charCount = charCount + words.length;
             }

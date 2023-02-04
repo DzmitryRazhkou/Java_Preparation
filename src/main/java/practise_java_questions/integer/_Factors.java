@@ -1,4 +1,4 @@
-package practise_java_questions.string;
+package practise_java_questions.integer;
 
 public class _Factors {
     public static void main(String[] args) {

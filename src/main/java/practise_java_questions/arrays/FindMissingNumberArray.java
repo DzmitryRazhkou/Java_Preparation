@@ -15,7 +15,7 @@ public class FindMissingNumberArray {
         System.out.println("-----------");
 
     int sum1 = 0;
-    for (int j = 1; j <= 6; j++){
+    for (int j = 0; j <= 6; j++){
         sum1 = sum1 + j;
     }
         System.out.println(sum1);

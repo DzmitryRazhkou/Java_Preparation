@@ -2,7 +2,7 @@ package practise_java_questions.integer;
 
 public class FizzBuzz {
     public static void main(String[] args) {
-        fizzBuzz(80);
+        fizzBuzz(9);
 
     }
 
@@ -14,6 +14,5 @@ public class FizzBuzz {
             } else if (bound % 5 == 0) {
                 System.out.println("Buzz");
             }
-        System.out.println(bound);
         }
 }

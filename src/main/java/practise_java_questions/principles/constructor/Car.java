@@ -1,9 +1,9 @@
 package practise_java_questions.principles.constructor;
 
 public class Car {
-    String make;
-    String model;
-    Integer year;
+    protected String make;
+    protected String model;
+    protected Integer year;
 
     public Car(String make, String model, Integer year){
         this.make = make;

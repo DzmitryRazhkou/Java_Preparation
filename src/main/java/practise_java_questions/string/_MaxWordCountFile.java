@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
-public class _MaxWordCount {
+public class _MaxWordCountFile {
 
     static String path = "/Users/dzmitryrazhkou/Desktop/lyrics.txt";
 

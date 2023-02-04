@@ -14,7 +14,8 @@ public class FinalizeConcept {
         System.out.println("Inside the finalize method");
     }
 
-//    Object is created , and obj will declare as null,
+//    Object is created, and obj will declare as null,
 //    then finalize method would be called without obj.finalize by garbage collector.
 //    then System.gc and obj will be erased.
+
 }

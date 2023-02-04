@@ -21,7 +21,6 @@ public class ShowDuplicateNumbersArray_ArrayListSet {
             if (count > 1){
                 System.out.println(s);
             }
-
         }
     }
 }
