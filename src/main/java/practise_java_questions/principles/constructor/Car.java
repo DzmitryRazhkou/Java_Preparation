@@ -13,4 +13,13 @@ public class Car {
     public String getFullName(){
         return "Vehicle = " +this.make+ " " +this.model+ " " +this.year;
     }
+
+    public String getMake() {
+
+        return make;
+    }
+
+    public void setMake(String make) {
+        this.make = make;
+    }
 }

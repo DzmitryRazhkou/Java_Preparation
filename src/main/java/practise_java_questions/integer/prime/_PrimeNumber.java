@@ -1,4 +1,4 @@
-package practise_java_questions.integer;
+package practise_java_questions.integer.prime;
 
 public class _PrimeNumber {
     public static void main(String[] args) {

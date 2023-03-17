@@ -7,4 +7,5 @@ public class EV extends Car{
         super(make, model, year);
         this.battery = battery;
     }
+
 }

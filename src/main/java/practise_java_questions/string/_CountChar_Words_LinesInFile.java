@@ -24,11 +24,11 @@ public class _CountChar_Words_LinesInFile {
             lineCount++;
 
 //            Words:
-            String words[] = currentLine.split(" ");
+            String[] words = currentLine.split(" ");
             wordCount = wordCount + words.length;
 
 //            Line:
-            for (String w : words) {
+            for (String ignored : words) {
                 charCount = charCount + words.length;
             }
             currentLine = reader.readLine();
@@ -37,7 +37,5 @@ public class _CountChar_Words_LinesInFile {
         System.out.println("Total line: " + lineCount);
         System.out.println("Words: " + wordCount);
         System.out.println("Chars: " + charCount);
-
-
     }
 }

@@ -1,46 +1,22 @@
 package practise_java_questions.string;
 
 import java.util.Random;
-import java.util.concurrent.ThreadLocalRandom;
 
 public class _GenerateRandomNumber {
     public static void main(String[] args) {
+        generateRandom(100);
+    }
 
-//        1. Random:
+    public static void generateRandom(int number) {
 
-        Random random = new Random();
-        for (int i = 0; i <= 5; i++) {
-            System.out.println("Random int: " + random.nextInt());
-        }
-        System.out.println("---------");
+        // Create a Random object
+        Random rd = new Random();
 
-//        2. Math.random():
+        // Generate a random number between 1 and 100
+        int randomNumber = rd.nextInt(number) + 1;
 
-        for (int i = 0; i <5; i++) {
-            System.out.println(Math.random());
-        }
-        System.out.println("---------");
-
-//        3. ThreadLocalRandom:
-
-        for (int i = 0; i <5; i++) {
-            System.out.println(ThreadLocalRandom.current().nextInt());
-        }
-        System.out.println("----range-----");
-
-//        4. Range:
-
-        for (int i = 0; i <5; i++) {
-//            System.out.println(random.nextInt(100));   // tp 100
-//            System.out.println((double)(Math.random()*5));
-            System.out.println(ThreadLocalRandom.current().nextInt(1,35));
-        }
-
-        Random r = new Random();
-        int num = r.nextInt(100000);
-        String form = String.format("%05d", num);
-        System.out.println(form);
-
-
+        // Print the random number to the console
+        System.out.println("Random Numbers is: " + randomNumber);
     }
 }
+

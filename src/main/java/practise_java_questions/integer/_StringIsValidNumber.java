@@ -3,7 +3,7 @@ package practise_java_questions.integer;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class ___StringIsValidNumber {
+public class _StringIsValidNumber {
 
     public static boolean isCorrectPhoneNumber(String number) {
 

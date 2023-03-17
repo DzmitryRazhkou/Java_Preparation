@@ -10,11 +10,9 @@ public class CapitalizeWords {
         String result = "";
 
         for (String w : words) {
-            String first = w.substring(0, 1).toUpperCase();   //G
-            String rest = w.substring(1); //ans
-            result = result + first + rest + " ";
+            String rest = w.substring(0, 1).toUpperCase() + w.substring(1);
+            result += rest + " ";
         }
-
         System.out.println(result);
     }
 }

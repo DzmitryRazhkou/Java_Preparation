@@ -25,7 +25,5 @@ public class _RemoveAllWhiteSpace {
             remString.append(y);
         }
         System.out.println("StingBuffer: " +remString);
-
-
     }
 }

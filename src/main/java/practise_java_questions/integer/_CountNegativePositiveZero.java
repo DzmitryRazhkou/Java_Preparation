@@ -2,7 +2,7 @@ package practise_java_questions.integer;
 
 import java.util.Scanner;
 
-public class ___CountNegativePositiveZero {
+public class _CountNegativePositiveZero {
     public static void main(String[] args) {
         int countP = 0, countN = 0, countZ = 0, i;
         int[] arr = new int[10];

@@ -5,24 +5,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d48345b-70a1-431f-9a97-eee0e7646718" name="Changes" comment="rev">
+      <change afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/_SortedArrayFindElementIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/character/_CountCapital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_ConvertData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_Factorials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_SummarizeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_SwapTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/RegExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/tricky/Interview_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_23_0_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/ArrayList/ShowDuplicateNumbersArray_ArrayListSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/ArrayList/ShowDuplicateNumbersArray_ArrayListSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/ArrayEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/ArrayEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/Ascending_Descending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/Ascending_Descending.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/FindMissingNumberArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/FindMissingNumberArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/SumOdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/finalize/FinalizeConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/finalize/FinalizeConcept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/Largest_Among_Three_Numbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/UserInputAndReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_InterviewQuestions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_InterviewQuestions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/_SecondLargestIntegerArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/_SecondLargestIntegerArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/character/Character_Alphabet_Not.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/character/Character_Alphabet_Not.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/character/Characters_A_to_Z.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/character/CountCapital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/character/StringContainsVowels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/character/_CharacterOccurrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/character/_CharacterOccurrence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/character/_PrintAlphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/character/_PrintAlphabet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/character/__Vowel_Consonant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/character/_Vowel_Consonant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/inferface/FortisHospital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/inferface/MedicalAssociation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/inferface/SwedenMedical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/inferface/TestHospital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/inferface/UKMedical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/inferface/USMedical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/Add_Two_Integer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/CountNumber_Digits_in_an_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/CountNumber_Digits_in_an_Integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/Remainder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/Remainder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/ReputativeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_RepetitiveNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/ReverseNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/ScannerDice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/Sqrt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/String_Contains_Vowels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/SumInputByUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/Sum_Natural_Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/Swap_Two_Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_Factorial_Recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_Fibonacci_Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_Fibonacci_Series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_NaturalNumberSumRecursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/prime/_PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_PrintPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/prime/_PrimePrintNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_SwapTwoNumbersUsingTemp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_SwapTwoNumbersWithoutTemp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/__Prime_Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/prime/_PrimeInterval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/___CountNegativePositiveZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_CountNegativePositiveZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/___Expressed_as_Sum_of_Two_Prime_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/prime/_PrimeNumbersExpressNatural.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/___StringIsValidNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_StringIsValidNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/____RepeatNumberCount.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/constructor/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/constructor/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/constructor/EV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/constructor/EV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/encapsulation/WebDriverTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/encapsulation/WebDriverTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/CapitalizeWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/CapitalizeWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_Anagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_CountChar_Words_LinesInFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_CountChar_Words_LinesInFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_Factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_Factors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_Fibonacci_Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_Fibonacci_Series.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_Leap_Year.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_MaxWordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_MaxWordCountFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_GenerateRandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_GenerateRandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_LongestWordInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_LongestWordInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_RemoveAllWhiteSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_RemoveAllWhiteSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_RemoveJunkSpecialChars.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/replaceAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/temp/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/temp/Arm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/temp/Count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/temp/FZ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/temp/RANDOM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/temp/S.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/temp/TestExec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/temp/TestExec.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +115,8 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/dzmitryrazhkou/Documents/Automation/Java_Preparation&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -75,39 +125,13 @@
       <recent name="preparation.integer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayEven">
-    <configuration name="ArrayEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practise_java_questions.arrays.ArrayEven" />
+  <component name="RunManager" selected="Application.FizzBuzz">
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_java_questions.integer.FizzBuzz" />
       <module name="Java_InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practise_java_questions.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongNumbers_SuffixWithoutL_WithL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practise_java_questions.tricky.LongNumbers_SuffixWithoutL_WithL" />
-      <module name="Java_InterviewQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practise_java_questions.tricky.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PassNullArgumentWithMethodOverloadingString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practise_java_questions.tricky.PassNullArgumentWithMethodOverloadingString" />
-      <module name="Java_InterviewQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practise_java_questions.tricky.*" />
+          <option name="PATTERN" value="practise_java_questions.integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +152,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="concat_equal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practise_java_questions.tricky.concat_equal" />
+    <configuration name="_SummarizeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_java_questions.integer._SummarizeNumbers" />
       <module name="Java_InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practise_java_questions.tricky.*" />
+          <option name="PATTERN" value="practise_java_questions.integer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practise_java_questions.integer._Fibonacci_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_java_questions.integer._Fibonacci_Series" />
+      <module name="Java_InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise_java_questions.integer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practise_java_questions.integer._RepetitiveNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_java_questions.integer._RepetitiveNumbers" />
+      <module name="Java_InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise_java_questions.integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayEven" />
+        <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.TestExec" />
-        <item itemvalue="Application.concat_equal" />
-        <item itemvalue="Application.LongNumbers_SuffixWithoutL_WithL" />
-        <item itemvalue="Application.PassNullArgumentWithMethodOverloadingString" />
+        <item itemvalue="Application._SummarizeNumbers" />
+        <item itemvalue="Application.practise_java_questions.integer._Fibonacci_Series" />
+        <item itemvalue="Application.practise_java_questions.integer._RepetitiveNumbers" />
       </list>
     </recent_temporary>
   </component>

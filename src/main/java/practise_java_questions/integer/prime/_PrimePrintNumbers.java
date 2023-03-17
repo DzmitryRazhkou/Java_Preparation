@@ -1,6 +1,6 @@
-package practise_java_questions.integer;
+package practise_java_questions.integer.prime;
 
-public class _PrintPrime {
+public class _PrimePrintNumbers {
     public static void main(String[] args) {
         for (int i = 2; i < 100; i++) {
             boolean isPrime = true;

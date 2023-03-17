@@ -2,22 +2,20 @@ package practise_java_questions.integer;
 
 public class Remainder {
         public static void main(String[] args) {
-            int res = remainder_1(100, 30);
-            System.out.println(res);
-            res = remainder_2(100,30);
-            System.out.println(res);
-
+            remainderFirstWay(129, 7);
+            remainderSecondWay(129, 7);
         }
 
-        private static int remainder_2(int a, int b) {
+    private static void remainderFirstWay(int a, int b) {
 //        int x = a/b;
-            return a-(a/b)*b;
-        }
-
-        private static int remainder_1(int a, int b) {
-            while (a > b) {
-                a = a - b;
-            }
-            return a;
-        }
+        int result = a - (a / b) * b;
+        System.out.println("The Remainder is: "+result);
     }
+    private static void remainderSecondWay(int a, int b) {
+        while (a > b) {
+            a = a - b;
+        }
+        int result = a;
+        System.out.println("The Remainder is: "+result);
+    }
+}

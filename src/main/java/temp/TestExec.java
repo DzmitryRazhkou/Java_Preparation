@@ -1,27 +1,26 @@
 package temp;
 
 import java.io.IOException;
+import java.util.Random;
 
 public class TestExec {
     public static void main(String[] args) throws IOException {
-        int[] r = {1, 7, -5, 25, 0, 17, 35, 56, 88, 14, 5, 5, 9, 12, 7};
-        for (int i = 0; i < r.length; i++) {
-            if (r[i] % 2 != 0) {
-                System.out.println(r[i]);
-            }
-        }
+        printPassword(12);
     }
 
-    public static void remove(int a[]) {
-        int sum = 0;
-        int avg = 0;
-
-        for (int i = 0; i < a.length; i++) {
-            sum = sum + a[i];
-            avg = sum / a.length;
+    public static void printPassword(int number) {
+        String chars =
+                "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_-+=?/<>";
+        Random rd = new Random();
+        StringBuffer sb = new StringBuffer();
+        for (int i = 0; i < number; i++) {
+            int randomInt = rd.nextInt(chars.length());
+            sb.append(chars.charAt(randomInt));
         }
-        System.out.println(avg);
+        System.out.println(sb.toString());
     }
 }
+
+
 
 

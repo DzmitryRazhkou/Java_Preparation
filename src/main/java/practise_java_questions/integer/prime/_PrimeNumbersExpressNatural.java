@@ -1,6 +1,6 @@
-package practise_java_questions.integer;
+package practise_java_questions.integer.prime;
 
-public class ___Expressed_as_Sum_of_Two_Prime_Numbers {
+public class _PrimeNumbersExpressNatural {
     public static void main(String[] args) {
 
         int num = 15;

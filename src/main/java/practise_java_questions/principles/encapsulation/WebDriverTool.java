@@ -23,5 +23,4 @@ public class WebDriverTool {
         System.out.println("Checking OS Version");
         System.out.println("Launch Safari");
     }
-
 }
