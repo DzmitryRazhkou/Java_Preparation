@@ -19,8 +19,8 @@ _Anagram {
         String w1 = word1.toLowerCase();
         String w2 = word2.toLowerCase();
 
-        String w_1 = w1.replaceAll("//s", " ");
-        String w_2 = w2.replaceAll("//s", " ");
+        String w_1 = w1.replaceAll("\\s", "");
+        String w_2 = w2.replaceAll("\\s", "");
 
         char[] arr1 = w_1.toCharArray();
         char[] arr2 = w_2.toCharArray();

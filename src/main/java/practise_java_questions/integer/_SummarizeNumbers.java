@@ -24,7 +24,7 @@ public class _SummarizeNumbers {
     }
     public static void summarizeNumbersThruWhileLoop(int number) {
         int sum = 0;
-        int z = 1;
+        int z = 0;
 
         while (z<=number){
             sum+=z;

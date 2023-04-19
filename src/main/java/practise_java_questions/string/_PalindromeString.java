@@ -2,17 +2,18 @@ package practise_java_questions.string;
 
 public class _PalindromeString {
     public static void main(String[] args) {
-        String str = "Lol";
-        String rev = "";
-        int s = str.length() - 1;
+        String str = "Youoy";
+        boolean result = isPalindrome(str);
+        System.out.println(result);
+    }
 
-        for (int i = s; i >= 0; i--) {
-            rev = rev + str.charAt(i);
+    public static boolean isPalindrome(String str) {
+        String reversed = "";
+        int length = str.length() - 1;
+
+        for (int i = length; i >= 0; i--) {
+            reversed += str.charAt(i);
         }
-        if (str.toLowerCase().equals(rev.toLowerCase())){
-            System.out.println("y");
-        } else {
-            System.out.println("n");
-        }
+        return (str.toLowerCase().equals(reversed.toLowerCase()));
     }
 }

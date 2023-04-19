@@ -11,9 +11,7 @@ public class _PrintOneHundredWithoutUsingLoops {
         if (num <= 100) {
             System.out.println(num);
             num++;
-
             printNum(num);
-
         }
     }
 

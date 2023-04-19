@@ -21,16 +21,16 @@ public class RemoveDuplicateElementsFromArrayUsingSet {
         System.out.println("\n________");
 
         String name[] = {"levic", "Lev", "Levi", "Levic", "Lev"};
-        RemoveDuplicateElementsFromArrayUsingSort(name);
+        removeDuplicateElementsFromArrayUsingSort(name);
 
         Integer [] arr1 = {7, 2, 5, 2, 3, 5, 6, 5, 6};
-        RemoveDuplicateElementsFromArrayUsingSort(arr1);
+        removeDuplicateElementsFromArrayUsingSort(arr1);
         System.out.println(" " +name);
 
 
     }
 
-    public static void RemoveDuplicateElementsFromArrayUsingSort(Object[] object){
+    public static void removeDuplicateElementsFromArrayUsingSort(Object[] object){
         Set<Object> set = new HashSet<>();
         for (Object a : object){
             set.add(a);

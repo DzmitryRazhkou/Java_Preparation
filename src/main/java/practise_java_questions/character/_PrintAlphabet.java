@@ -2,7 +2,7 @@ package practise_java_questions.character;
 
 public class _PrintAlphabet {
     public static void main(String[] args) {
-        printAlphabetIndexChars("ca");
+        printAlphabetIndexChars("capital");
         printAlphabetChars();
 
     }

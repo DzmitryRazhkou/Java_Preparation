@@ -9,8 +9,8 @@ public class CompareTwoInteger_Numbers {
 
 //      -128 ... 127 Caching range
 
-        Integer n1 = 100;
-        Integer n2 = 100;
+        Integer n1 = 128;
+        Integer n2 = 128;
 
         if(n1 == n2) {
             System.out.println("Both are equal");

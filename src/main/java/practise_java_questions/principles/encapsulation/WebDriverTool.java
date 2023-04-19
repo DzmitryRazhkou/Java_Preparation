@@ -10,7 +10,6 @@ public class WebDriverTool {
         } else {
             System.out.println("Please pass the correct browser");
         }
-
     }
 
     private void launchChrome(){

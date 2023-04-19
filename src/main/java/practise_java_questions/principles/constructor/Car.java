@@ -15,7 +15,6 @@ public class Car {
     }
 
     public String getMake() {
-
         return make;
     }
 

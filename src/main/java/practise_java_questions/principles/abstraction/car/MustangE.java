@@ -14,5 +14,4 @@ public class MustangE extends Tesla implements Car{
     public void start() {
         super.start();
     }
-
 }
