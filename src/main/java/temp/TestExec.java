@@ -2,25 +2,34 @@ package temp;
 
 import java.io.IOException;
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
 
 public class TestExec {
     public static void main(String[] args) throws IOException {
-        int[] str = {0, 79, 12, 50, 7};
+        String str = "You are always up coming up with excuses not having your work done";
         insertOrder(str);
     }
 
-    public static void insertOrder(int[] str) {
-        for (int i = 0; i < str.length; i++) {
-            int current = str[i];
-            int j = i - 1;
+    public static void insertOrder(String str) {
+        char[] array = str.toLowerCase().replaceAll("\\s", "").toCharArray();
+        Arrays.sort(array);
+        Map<Character, Integer> maps = new HashMap<>();
 
-            while (j >= 0 && str[j] > current) {
-                str[j + 1] = str[j];
-                j--;
+        for (char s : array) {
+            if (maps.containsKey(s)) {
+                maps.put(s, maps.get(s) + 1);
+            } else {
+                maps.put(s, 1);
             }
-            str[j + 1] = current;
         }
-        System.out.println(Arrays.toString(str));
+        Set<Character> set = maps.keySet();
+        for (Character s : set) {
+            if (maps.get(s) > 1) {
+                System.out.println(s + " -> " + maps.get(s));
+            }
+        }
     }
 }
 

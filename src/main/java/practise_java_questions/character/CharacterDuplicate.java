@@ -1,5 +1,6 @@
 package practise_java_questions.character;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
@@ -10,7 +11,9 @@ public class CharacterDuplicate {
     }
 
     public static void duplicateCharacter(String str) {
-        char[] words = str.toCharArray();
+        char[] words = str.toLowerCase().replaceAll("\\s", "").toCharArray();
+        Arrays.sort(words);
+
         Map<Character, Integer> map = new HashMap<>();
         for (Character s : words) {
             if (map.containsKey(s)) {

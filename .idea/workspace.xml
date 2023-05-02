@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d48345b-70a1-431f-9a97-eee0e7646718" name="Changes" comment="rev">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/EvenIntoNewArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/collections/HashMapToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/BinaryNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/SummarizeInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/ArrayToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/ArrayToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/RemoveDuplicateElementsFromArrayUsingSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/RemoveDuplicateElementsFromArrayUsingSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/_SecondLargestIntegerArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/_SecondLargestIntegerArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/character/_PrintAlphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/character/_PrintAlphabet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/CompareTwoInteger_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/CompareTwoInteger_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_PrintOneHundredWithoutUsingLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_PrintOneHundredWithoutUsingLoops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_SummarizeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_SummarizeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/abstraction/car/MustangE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/abstraction/car/MustangE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/constructor/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/constructor/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/encapsulation/WebDriverTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/encapsulation/WebDriverTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/star_paterrns/Pyramid_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/star_paterrns/Pyramid_Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/star_paterrns/Star_Pattern1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/star_paterrns/Star_Pattern2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/star_paterrns/Star_Pattern4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/star_paterrns/Star_Pattern5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_CountChar_Words_LinesInFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_CountChar_Words_LinesInFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_PalindromeString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/tricky/NullArgument.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/temp/TestExec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/temp/TestExec.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,13 +60,39 @@
       <recent name="preparation.integer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EvenIntoNewArray">
-    <configuration name="EvenIntoNewArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practise_java_questions.arrays.EvenIntoNewArray" />
+  <component name="RunManager" selected="Application.CharacterDuplicate">
+    <configuration name="AlphabetPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_java_questions.star_paterrns.AlphabetPattern" />
       <module name="Java_InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practise_java_questions.arrays.*" />
+          <option name="PATTERN" value="practise_java_questions.star_paterrns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_java_questions.character.CharacterDuplicate" />
+      <module name="Java_InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise_java_questions.character.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SummarizeInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_java_questions.integer.SummarizeInteger" />
+      <module name="Java_InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise_java_questions.integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,19 +113,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_MaxWordCountFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practise_java_questions.string._MaxWordCountFile" />
-      <module name="Java_InterviewQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practise_java_questions.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_SecondLargestIntegerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practise_java_questions.arrays._SecondLargestIntegerArray" />
       <module name="Java_InterviewQuestions" />
@@ -135,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practise_java_questions.arrays._Sorted_Array" />
-      <module name="Java_InterviewQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practise_java_questions.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EvenIntoNewArray" />
+        <item itemvalue="Application.CharacterDuplicate" />
         <item itemvalue="Application.TestExec" />
         <item itemvalue="Application._SecondLargestIntegerArray" />
-        <item itemvalue="Application._Sorted_Array" />
-        <item itemvalue="Application._MaxWordCountFile" />
+        <item itemvalue="Application.SummarizeInteger" />
+        <item itemvalue="Application.AlphabetPattern" />
       </list>
     </recent_temporary>
   </component>
