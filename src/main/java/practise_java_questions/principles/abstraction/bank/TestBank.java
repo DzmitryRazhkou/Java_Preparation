@@ -13,9 +13,10 @@ public class TestBank {
         b.credit();
         b.debit();
         b.loan();
-        int d = Bank.loanRate;
+        int y = Bank.loanRate;
 
         CapitalOne t = new CapitalOne();
         t.loan();
+        System.out.println("Loan Rate is: "+y);
     }
 }

@@ -8,4 +8,7 @@ public class EV extends Car{
         this.battery = battery;
     }
 
+    public String getBattery() {
+        return battery;
+    }
 }

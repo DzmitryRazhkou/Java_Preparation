@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d48345b-70a1-431f-9a97-eee0e7646718" name="Changes" comment="rev">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/SummarizeInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_24_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_InterviewQuestions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/ShowDuplicatesElementsArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/ShowDuplicatesElementsArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/prime/_PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/integer/prime/_PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/loops/brake_continue/StaticBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/loops/brake_continue/StaticBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/abstraction/bank/TestBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/abstraction/bank/TestBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/abstraction/bank/WellsFargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/abstraction/bank/WellsFargo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/constructor/CarApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/constructor/CarApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/constructor/EV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/principles/constructor/EV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_CountChar_Words_LinesInFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practise_java_questions/string/_CountChar_Words_LinesInFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/temp/TestExec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/temp/TestExec.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,16 +40,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/ArrayList/CompareTwoArrayLists.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/ArrayList/ShowDuplicateNumbersArray_ArrayListSet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/Try_Catch/_PrintHelloWorldWithOutSemicolon.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/Try_Catch/_PrintNames1000WithoutLoop.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/_ReverseWordArray.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/arrays/_SecondLargestIntegerArray.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/integer/CompareTwoInteger_Numbers.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/integer/MaxNumberWhereeThreeDifferent.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/integer/_RepetitiveNumbers.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/loops/brake_continue/Cond.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/loops/brake_continue/StaticBlock.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/string/CapitalizeWords.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/string/_CountWords.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/string/_LongestWordInString.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/practise_java_questions/string/_RemoveAllWhiteSpace.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/preparation/integer/Number_Days_Month.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/temp/TestExec.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2Ck8SsV2WMv2mJ0rdpFAX3tZlz2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,11 +80,12 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/dzmitryrazhkou/Documents/Automation/Java_Preparation&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.space&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -60,13 +94,13 @@
       <recent name="preparation.integer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CharacterDuplicate">
-    <configuration name="AlphabetPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practise_java_questions.star_paterrns.AlphabetPattern" />
+  <component name="RunManager" selected="Application._PrimeNumber">
+    <configuration name="Cond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_java_questions.loops.brake_continue.Cond" />
       <module name="Java_InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practise_java_questions.star_paterrns.*" />
+          <option name="PATTERN" value="practise_java_questions.loops.brake_continue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practise_java_questions.character.CharacterDuplicate" />
+    <configuration name="Multiply_Two_Floating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_java_questions.integer.Multiply_Two_Floating" />
       <module name="Java_InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practise_java_questions.character.*" />
+          <option name="PATTERN" value="practise_java_questions.integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,7 +134,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestExec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="_PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_java_questions.integer.prime._PrimeNumber" />
+      <module name="Java_InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise_java_questions.integer.prime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="temp.TestExec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="temp.TestExec" />
       <module name="Java_InterviewQuestions" />
       <extension name="coverage">
@@ -113,26 +160,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_SecondLargestIntegerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practise_java_questions.arrays._SecondLargestIntegerArray" />
-      <module name="Java_InterviewQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practise_java_questions.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CharacterDuplicate" />
-        <item itemvalue="Application.TestExec" />
-        <item itemvalue="Application._SecondLargestIntegerArray" />
+        <item itemvalue="Application._PrimeNumber" />
+        <item itemvalue="Application.temp.TestExec" />
+        <item itemvalue="Application.Multiply_Two_Floating" />
         <item itemvalue="Application.SummarizeInteger" />
-        <item itemvalue="Application.AlphabetPattern" />
+        <item itemvalue="Application.Cond" />
       </list>
     </recent_temporary>
   </component>
@@ -177,5 +211,9 @@
     <MESSAGE value="ReverseArray" />
     <MESSAGE value="rev" />
     <option name="LAST_COMMIT_MESSAGE" value="rev" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

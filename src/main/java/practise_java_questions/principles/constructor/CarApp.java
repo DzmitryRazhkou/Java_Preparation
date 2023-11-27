@@ -8,6 +8,7 @@ public class CarApp {
 
         v.year = 2020;
         v.make = "Cadillac";
+
         System.out.println(v.getFullName());
 
     }

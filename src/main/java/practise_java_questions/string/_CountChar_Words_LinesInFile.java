@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class _CountChar_Words_LinesInFile {
-        static String path = "/Users/dzmitryrazhkou/Desktop/up.txt";
+        static String path = "/Users/dzmitryrazhkou/Desktop/sp.txt";
 
     public static void main(String[] args) throws IOException {
 
