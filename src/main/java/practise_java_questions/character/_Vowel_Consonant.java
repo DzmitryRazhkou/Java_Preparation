@@ -10,6 +10,8 @@ public class _Vowel_Consonant {
         vowelsString(s);
         containCharsThruMatches(s);
         countVowelsString(vowelsCountChars);
+        System.out.println(">>>>>>>> \n");
+        countVowelsWithMethod(s);
     }
 
     public static void vowelsString(String str) {
@@ -65,12 +67,27 @@ public class _Vowel_Consonant {
         int counter = 0;
 
         for (int i = 0; i < str.length(); i++) {
+
             char y = str.charAt(i);
             if (y == 'a' || y == 'e' || y == 'u' || y == 'o' || y == 'i') {
                 counter++;
             }
         }
         System.out.println("The Amount of Vowels Chars is: " + counter);
+    }
+
+    public static void countVowelsWithMethod(String str) {
+        str = str.toLowerCase();
+        int count = 0;
+
+        for (int i = 0; i < str.length(); i++) {
+            char y = str.charAt(i);
+
+            if (isVowel(y)) {
+                count++;
+            }
+        }
+        System.out.println("The Amount of Vowels Chars is: " + count);
     }
 
 }

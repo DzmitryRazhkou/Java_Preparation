@@ -5,6 +5,8 @@ public class ConcatStringImmutable {
         String x = "abc";
         String y = "abc";
         String t = x.concat(y);
+
+        System.out.println(t);
         System.out.println(x);
     }
 }

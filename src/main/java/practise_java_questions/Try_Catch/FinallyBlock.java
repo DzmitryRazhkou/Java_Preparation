@@ -3,7 +3,7 @@ package practise_java_questions.Try_Catch;
 public class FinallyBlock {
     public static void main(String[] args) {
 
-        System.out.println("A");
+        System.out.println("Car");
         try {
             int i = 9 / 0;
         } catch (ArithmeticException e) {

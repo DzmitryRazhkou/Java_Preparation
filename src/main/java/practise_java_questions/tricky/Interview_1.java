@@ -7,6 +7,8 @@ public class Interview_1 {
         j = ++k;
         i = j++;
         System.out.println(i);
+
+        System.out.println("/////////");
         sec();
     }
 

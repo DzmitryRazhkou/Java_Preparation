@@ -23,6 +23,8 @@ public class concat_equal {
         String f2 = new String("gans");
         System.out.println(s1.equals(s2));  // false
 
+        System.out.println(f1.equals(f2));  // false
+
 //        In heap store the two different value - gans ,but the different name in the stack.
 
 

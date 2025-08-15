@@ -2,6 +2,7 @@ package practise_java_questions.principles.overrideStaticMethod_noOverrideOnly;
 
 public class Chevy extends Car {
 
+    @Override
     public void start(){
         System.out.println("Chevy --- start");
     }

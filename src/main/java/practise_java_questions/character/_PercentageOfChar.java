@@ -12,13 +12,13 @@ public class _PercentageOfChar {
         int specChars = 0;
 
         for (int i = 0; i < len; i++) {
-            char sC = str.charAt(i);   // get specific characters
+            char sc = str.charAt(i);   // get specific characters
 
-            if (Character.isUpperCase(sC)) {
+            if (Character.isUpperCase(sc)) {
                 upperCaseCount++;
-            } else if (Character.isLowerCase(sC)) {
+            } else if (Character.isLowerCase(sc)) {
                 lowerCaseCount++;
-            } else if (Character.isDigit(sC)) {
+            } else if (Character.isDigit(sc)) {
                 digits++;
             } else {
                 specChars++;

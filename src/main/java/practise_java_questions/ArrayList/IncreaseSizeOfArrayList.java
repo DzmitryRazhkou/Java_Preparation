@@ -10,6 +10,5 @@ public class IncreaseSizeOfArrayList {
         Stringslist.add("Bugatti");
 
         Stringslist.ensureCapacity(10);
-
     }
 }
